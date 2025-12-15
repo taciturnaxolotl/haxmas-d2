@@ -2,6 +2,8 @@
 
 ![screenshot](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c3b8109af12acba6_14138.png)
 
+This is a little pcb tree I made for hackclub's 2025 haxmas day 2. It should theoretically slot together and work fairly well as long as I did everything correctly lol.
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/main/.github/images/line-break.svg" />
 </p>
